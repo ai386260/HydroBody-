@@ -1,0 +1,8 @@
+{
+  "name": "Remix HydroBuddy",
+  "description": "Smart hydration tracker with live squad sync, fun Mummy Mode desi nudges, challenges, and Paudha Buddy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
